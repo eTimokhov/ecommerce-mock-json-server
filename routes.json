@@ -1,3 +1,2 @@
 {
-  "/products/:category": "/products?category=:category"
 }
