@@ -4,7 +4,7 @@
   "description": "Mock Json server for ecommerce project",
   "main": "index.js",
   "scripts": {
-    "watch": "json-server db.json --routes routes.json",
+    "serve": "json-server db.json --routes routes.json",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
